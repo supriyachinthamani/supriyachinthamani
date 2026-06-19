@@ -1,13 +1,10 @@
 # 🌟 About Me
 
 🎓 B.Tech 4th Year Student (CSE - AI)
-
 💻 Interested in Backend Development
-
 🚀 Learning Node.js, Express.js, Java, SQL and APIs
 
 ## 📫 Connect With Me
-
 supriyachinthamani7@gmail.com
 
 ## 🔹 Interests
