@@ -10,7 +10,7 @@
 
 ## 📫 Connect With Me
 
-📧 supriyachinthamani7@gmail.com
+📧 [supriyachinthamani7@gmail.com](mailto:supriyachinthamani7@gmail.com)
 
 ## 🔹 Interests
 - Backend Development
