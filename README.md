@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Supriya
-
-## 🌟 About Me
+# 🌟 About Me
 
 🎓 B.Tech 4th Year Student (CSE - AI)
 
