@@ -10,7 +10,7 @@
 
 ## 📫 Connect With Me
 
-📧 [supriyachinthamani7@gmail.com](mailto:supriyachinthamani7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriyachinthamani7@gmail.com)
 
 ## 🔹 Interests
 - Backend Development
