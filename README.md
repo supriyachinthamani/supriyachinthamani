@@ -22,8 +22,3 @@ supriyachinthamani7@gmail.com
 ![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyachinthamani&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyachinthamani&layout=compact&theme=dark)
